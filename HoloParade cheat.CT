@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"money"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>2419141CC84</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"general pull"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>2419141CC88</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"GEN 3 SR"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>24191437350</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"GEN 3 UR"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>24191437348</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"GAMERS SR"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>24191437320</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"GAMERS UR"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>24191437318</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"GEN 0 SR"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>241914372F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"GEN 0 UR"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>241914372E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"MYTH SR"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>241914372C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"MYTH UR"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>241914372B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"GEN 5 SR"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>24191437290</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"GEN 5 UR"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>24191437288</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
